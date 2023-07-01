@@ -1,0 +1,19 @@
+{
+  "name": "npmmod",
+  "version": "1.0.0",
+  "description": "thapa technical node tuts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "smruti",
+    "surekha"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "validator": "^13.9.0"
+  }
+}
